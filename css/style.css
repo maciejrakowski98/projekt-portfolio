@@ -256,7 +256,7 @@ label[for="drop-nav"] {
     }
 }
 
-@media (max-with: 768px) {
+@media (max-width: 768px) {
     .container {
         max-width: 95%;
     }
